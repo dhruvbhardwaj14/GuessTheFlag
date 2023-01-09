@@ -6,7 +6,11 @@ An interesting game made by using basic gradients,shapes and animations. You jus
 
 
 
-https://user-images.githubusercontent.com/104016490/211209174-af62ce88-9e40-4921-869e-525d1e74e88e.mov
+
+
+
+https://user-images.githubusercontent.com/104016490/211263987-701d851f-047e-4aef-aa8b-d170ef2639a1.mov
+
 
 
 
@@ -39,7 +43,7 @@ https://user-images.githubusercontent.com/104016490/211209174-af62ce88-9e40-4921
 
 ## Supporting Files
 
-[Supporting Files](https://user-images.githubusercontent.com/104016490/211263003-8382094e-0c39-485a-8198-3392ce839f49.mov)
+[Supporting Files](https://github.com/dhruvbhardwaj14/projectsSwiftUI/tree/master/GuessTheFlag-Files)
 
 
 ## Authors
